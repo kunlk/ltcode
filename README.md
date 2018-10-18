@@ -1,5 +1,3 @@
-LeetCode
-
 <table>
 <thead>
 <tr>
