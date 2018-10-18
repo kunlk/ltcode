@@ -11,8 +11,8 @@ LeetCode
 </thead>
 <tbody>
 <tr>
-<td>859</td>
-<td><a href="https://leetcode.com/problems/buddy-strings/description/" rel="nofollow">Buddy Strings</a></td>
-<td><a href="/haoel/leetcode/blob/master/algorithms/cpp/buddyStrings/BuddyStrings.cpp">C++</a></td>
+<td>1</td>
+<td><a href="https://leetcode.com/problems/two-sum/description/" rel="nofollow">Two Sum</a></td>
+<td><a href="/haoel/leetcode/blob/master/algorithms/cpp/buddyStrings/BuddyStrings.cpp">Java</a></td>
 <td>Easy</td>
 </tr></tbody></table>
