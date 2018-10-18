@@ -22,4 +22,10 @@ LeetCode
 <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Add%20Two%20Numbers/addTwoNumbers.java">Java</a></td>
 <td>Medium</td>
 </tr>
+<tr>
+<td>2</td>
+<td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" rel="nofollow">Longest Substring Without Repeating Characters</a></td>
+<td><a href="">Java</a></td>
+<td>Medium</td>
+</tr>
 </tbody></table>
