@@ -13,6 +13,6 @@ LeetCode
 <tr>
 <td>1</td>
 <td><a href="https://leetcode.com/problems/two-sum/description/" rel="nofollow">Two Sum</a></td>
-<td><a href="/kunlk/ltcode/blob/master/Java/Two%20Sum/twoSum.java">Java</a></td>
+<td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Two%20Sum/twoSum.java">Java</a></td>
 <td>Easy</td>
 </tr></tbody></table>
