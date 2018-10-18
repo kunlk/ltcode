@@ -15,4 +15,11 @@ LeetCode
 <td><a href="https://leetcode.com/problems/two-sum/description/" rel="nofollow">Two Sum</a></td>
 <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Two%20Sum/twoSum.java">Java</a></td>
 <td>Easy</td>
-</tr></tbody></table>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://leetcode.com/problems/add-two-numbers/" rel="nofollow">Add Two Numbers</a></td>
+<td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Two%20Sum/twoSum.java">Java</a></td>
+<td>Medium</td>
+</tr>
+</tbody></table>
