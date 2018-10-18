@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td>146</td>
-<td><a href="https://leetcode.com/problems/lru-cache/description/" rel="nofollow">Longest Substring Without Repeating Characters</a></td>
+<td><a href="https://leetcode.com/problems/lru-cache/description/" rel="nofollow">LRU Cache</a></td>
 <td><a href="">Java</a></td>
 <td>Hard</td>
 </tr>
