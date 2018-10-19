@@ -23,7 +23,7 @@
     <tr>
       <td>3</td>
       <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" rel="nofollow">Longest Substring Without Repeating Characters</a></td>
-      <td>Java</td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
