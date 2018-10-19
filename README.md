@@ -41,7 +41,7 @@
     <tr>
       <td>200</td>
       <td><a href="https://leetcode.com/problems/number-of-islands/description/" rel="nofollow">Number of Islands</a></td>
-      <td><a href="">Java</a></td>
+      <td>Java</td>
       <td>Medium</td>
     </tr>
   </tbody>
