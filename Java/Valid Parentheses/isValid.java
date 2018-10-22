@@ -13,8 +13,7 @@ class Solution {
 					continue;
 				}else{
 					return false;
-				}
-				
+				}			
 			}
 		}
 		if(stack.size() > 0 )
