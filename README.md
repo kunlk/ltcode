@@ -44,5 +44,11 @@
       <td>Java</td>
       <td>Medium</td>
     </tr>
+    <tr>
+      <td>20</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td>Java</td>
+      <td>Easy</td>
+    </tr>
   </tbody>
 </table>
