@@ -47,7 +47,7 @@
     <tr>
       <td>20</td>
       <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
-      <td>Java</td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
       <td>Easy</td>
     </tr>
   </tbody>
