@@ -89,7 +89,7 @@
     <tr>
       <td>175</td>
       <td><a href="https://leetcode.com/problems/combine-two-tables/description/" rel="nofollow">Combine Two Tables</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">SQL</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/SQL/Combine%20Two%20Tables">SQL</a></td>
       <td>Easy</td>
     </tr>
   </tbody>
