@@ -50,5 +50,47 @@
       <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
       <td>Easy</td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>273</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td><a href="https://leetcode.com/problems/combine-two-tables/description/" rel="nofollow">Combine Two Tables</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Valid%20Parentheses/isValid.java">SQL</a></td>
+      <td>Easy</td>
+    </tr>
   </tbody>
 </table>
