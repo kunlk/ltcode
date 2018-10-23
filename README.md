@@ -52,38 +52,38 @@
     </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">	
+      <td><a href="https://leetcode.com/problems/longest-palindromic-substring/description/" rel="nofollow">	
 Longest Palindromic Substring</a></td>
       <td>Java</td>
       <td>Medium</td>
     </tr>
     <tr>
       <td>138</td>
-      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Copy List with Random Pointer</a></td>
+      <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/description/" rel="nofollow">Copy List with Random Pointer</a></td>
       <td>Java</td>
       <td>Medium</td>
     </tr>
     <tr>
       <td>42</td>
-      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Trapping Rain Water</a></td>
+      <td><a href="https://leetcode.com/problems/trapping-rain-water/description/" rel="nofollow">Trapping Rain Water</a></td>
       <td>Java</td>
       <td>Hard</td>
     </tr>
     <tr>
       <td>273</td>
-      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Integer to English Words</a></td>
+      <td><a href="https://leetcode.com/problems/integer-to-english-words/description/" rel="nofollow">Integer to English Words</a></td>
       <td>Java</td>
       <td>Hard</td>
     </tr>
     <tr>
       <td>15</td>
-      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">3Sum</a></td>
+      <td><a href="https://leetcode.com/problems/3sum/description/" rel="nofollow">3Sum</a></td>
       <td>Java</td>
       <td>Medium</td>
     </tr>
     <tr>
       <td>11</td>
-      <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Container With Most Water</a></td>
+      <td><a href="https://leetcode.com/problems/container-with-most-water/description/" rel="nofollow">Container With Most Water</a></td>
       <td>Java</td>
       <td>Medium</td>
     </tr>
