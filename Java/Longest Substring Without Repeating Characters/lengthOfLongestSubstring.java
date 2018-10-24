@@ -16,7 +16,7 @@ class Solution {
         return res;
     }
     
-    //Solution 2
+    //Solution 2 - Sliding Window
     public int lengthOfLongestSubstring(String s) {
         int res = 0, p = 0, q = 0;
         Set<Character> set = new HashSet<Character>();
