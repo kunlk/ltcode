@@ -1,6 +1,5 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-
         int res = 0;       
         Map<Character,Integer> map = new HashMap<Character,Integer>();
 
@@ -14,6 +13,22 @@ class Solution {
             res = Math.max(res, map.size());
         }
 
+        return res;
+    }
+    
+    //Solution 2
+    public int lengthOfLongestSubstring(String s) {
+        int res = 0, p = 0, q = 0;
+        Set<Character> set = new HashSet<Character>();
+        
+        while(q < s.length()){
+            if(set.contains(s.charAt(q))){
+                set.remove(s.charAt(p++));
+            }else{
+                set.add(s.charAt(q++));
+                res = Math.max(res, q-p);
+            }
+        }
         return res;
     }
 }
