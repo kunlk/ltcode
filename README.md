@@ -88,6 +88,18 @@ Longest Palindromic Substring</a></td>
       <td>Medium</td>
     </tr>
     <tr>
+      <td>56</td>
+      <td><a href="https://leetcode.com/problems/merge-intervals/description/" rel="nofollow">Merge Intervals</a></td>
+      <td>Java</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><a href="https://leetcode.com/problems/reverse-integer/description/" rel="nofollow">Reverse Integer</a></td>
+      <td>Java</td>
+      <td>Easy</td>
+    </tr>
+    <tr>
       <td>175</td>
       <td><a href="https://leetcode.com/problems/combine-two-tables/description/" rel="nofollow">Combine Two Tables</a></td>
       <td><a href="https://github.com/kunlk/ltcode/blob/master/SQL/Combine%20Two%20Tables">SQL</a></td>
