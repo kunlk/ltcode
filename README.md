@@ -96,7 +96,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>7</td>
       <td><a href="https://leetcode.com/problems/reverse-integer/description/" rel="nofollow">Reverse Integer</a></td>
-      <td>Java</td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Reverse%20Integer/reverse.java">Java</a></td>
       <td>Easy</td>
     </tr>
     <tr>
