@@ -108,7 +108,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>141</td>
       <td><a href="https://leetcode.com/problems/linked-list-cycle/description/" rel="nofollow">Linked List Cycle</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/SQL/Combine%20Two%20Tables">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Linked%20List%20Cycle/hasCycle.java">Java</a></td>
       <td>Easy</td>
     </tr>
   </tbody>
