@@ -88,10 +88,10 @@ Longest Palindromic Substring</a></td>
       <td>Medium</td>
     </tr>
     <tr>
-      <td>56</td>
-      <td><a href="https://leetcode.com/problems/merge-intervals/description/" rel="nofollow">Merge Intervals</a></td>
-      <td>Java</td>
-      <td>Medium</td>
+      <td>141</td>
+      <td><a href="https://leetcode.com/problems/linked-list-cycle/description/" rel="nofollow">Linked List Cycle</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Linked%20List%20Cycle/hasCycle.java">Java</a></td>
+      <td>Easy</td>
     </tr>
     <tr>
       <td>7</td>
@@ -100,16 +100,16 @@ Longest Palindromic Substring</a></td>
       <td>Easy</td>
     </tr>
     <tr>
+      <td>56</td>
+      <td><a href="https://leetcode.com/problems/merge-intervals/description/" rel="nofollow">Merge Intervals</a></td>
+      <td>Java</td>
+      <td>Medium</td>
+    </tr>   
+    <tr>
       <td>175</td>
       <td><a href="https://leetcode.com/problems/combine-two-tables/description/" rel="nofollow">Combine Two Tables</a></td>
       <td><a href="https://github.com/kunlk/ltcode/blob/master/SQL/Combine%20Two%20Tables">SQL</a></td>
       <td>Easy</td>
-    </tr>
-    <tr>
-      <td>141</td>
-      <td><a href="https://leetcode.com/problems/linked-list-cycle/description/" rel="nofollow">Linked List Cycle</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/Linked%20List%20Cycle/hasCycle.java">Java</a></td>
-      <td>Easy</td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
