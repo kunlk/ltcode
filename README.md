@@ -11,19 +11,19 @@
     <tr>
       <td>1</td>
       <td><a href="https://leetcode.com/problems/two-sum/description/" rel="nofollow">Two Sum</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/src/Two%20Sum/twoSum.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Two%20Sum/twoSum.java">Java</a></td>
       <td>Easy</td>
     </tr>
     <tr>
       <td>2</td>
       <td><a href="https://leetcode.com/problems/add-two-numbers/" rel="nofollow">Add Two Numbers</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/src/Add%20Two%20Numbers/addTwoNumbers.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Add%20Two%20Numbers/addTwoNumbers.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
       <td>3</td>
       <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" rel="nofollow">Longest Substring Without Repeating Characters</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/src/Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
     <tr>
       <td>20</td>
       <td><a href="https://leetcode.com/problems/valid-parentheses/description/" rel="nofollow">Valid Parentheses</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/src/Valid%20Parentheses/isValid.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Valid%20Parentheses/isValid.java">Java</a></td>
       <td>Easy</td>
     </tr>
     <tr>
@@ -90,13 +90,13 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>141</td>
       <td><a href="https://leetcode.com/problems/linked-list-cycle/description/" rel="nofollow">Linked List Cycle</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/src/Linked%20List%20Cycle/hasCycle.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Linked%20List%20Cycle/hasCycle.java">Java</a></td>
       <td>Easy</td>
     </tr>
     <tr>
       <td>7</td>
       <td><a href="https://leetcode.com/problems/reverse-integer/description/" rel="nofollow">Reverse Integer</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/Java/src/Reverse%20Integer/reverse.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Reverse%20Integer/reverse.java">Java</a></td>
       <td>Easy</td>
     </tr>
     <tr>
