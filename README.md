@@ -90,7 +90,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>146</td>
       <td><a href="https://leetcode.com/problems/lru-cache/description/" rel="nofollow">LRU Cache</a></td>
-      <td>Java</td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/LRU%20Cache/LRUCache.java">Java</a></td>
       <td>Hard</td>
     </tr>
     <tr>
