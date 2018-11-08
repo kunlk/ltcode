@@ -34,7 +34,7 @@ class Solution {
     
     //Solution 3 - Sliding Window optimized
     public int lengthOfLongestSubstring(String s) {
-		int res = 0;
+	int res = 0;
 		Map<Character,Integer> map = new HashMap<Character,Integer>();
 
 		for(int i = 0, j = 0; j < s.length(); j++){
