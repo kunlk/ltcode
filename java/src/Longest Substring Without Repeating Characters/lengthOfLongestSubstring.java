@@ -39,8 +39,8 @@ class Solution {
 
 		for(int i = 0, j = 0; j < s.length(); j++){
 			if(map.containsKey(s.charAt(j))){
-					i = Math.max(i,map.get(s.charAt(j)));
-				}
+				i = Math.max(i,map.get(s.charAt(j)));
+			}
 			map.put(s.charAt(j),j+1);
 			res = Math.max(res, j-i+1);
 		}
