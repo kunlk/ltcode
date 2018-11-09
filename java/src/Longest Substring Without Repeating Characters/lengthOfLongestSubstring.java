@@ -47,15 +47,15 @@ class Solution {
 	  return res;
     }
 
-    //
-	public int lengthOfLongestSubstring(String s) {
-		int res = 0;
+    //Assuming ASCII 128
+    public int lengthOfLongestSubstring(String s) {
+	int res = 0;
         int[] chars = new int[128];
         
-		for(int i = 0, j = 0; j < s.length(); j++){
+	for(int i = 0, j = 0; j < s.length(); j++){
             i = Math.max(i, chars[s.charAt(j)]);
-			res = Math.max(res, j - i + 1);
-			chars[s.charAt(j)] = j + 1;
+	    res = Math.max(res, j - i + 1);
+	    chars[s.charAt(j)] = j + 1;
         }
         return res;
     }
