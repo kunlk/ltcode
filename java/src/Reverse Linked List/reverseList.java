@@ -20,4 +20,22 @@ class Solution {
 	}
 	return curr;
     }
+
+    //recursive
+    public ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        return helper(head,prev);
+    }
+
+    private ListNode helper(ListNode head, ListNode newHead) {
+        if(head == null)
+            return newHead;
+        ListNode tmp = head.next;
+        head.next = newHead;
+        newHead = head;
+        head = tmp;
+        
+        return helper(head,newHead);
+        
+    }
 }
