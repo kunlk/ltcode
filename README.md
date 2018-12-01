@@ -77,7 +77,7 @@ Longest Palindromic Substring</a></td>
     </tr>          
     <tr>
       <td>138</td>
-      <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/description/" rel="nofollow">Copy List with Random Pointer</a></td>
+      <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/description/" rel="nofollow">Copy List with Random Pointer</a>O(1) ???</td>
       <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Copy%20List%20with%20Random%20Pointer/copyRandomList.java">Java</a></td>
       <td>Medium</td>
     </tr>    
