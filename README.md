@@ -132,7 +132,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>348</td>
       <td><a href="https://leetcode.com/problems/design-tic-tac-toe/description/" rel="nofollow">Design Tic-Tac-Toe</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Remove%20K%20Digits/removeKdigits.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Design%20Tic-Tac-Toe/TicTacToe.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
