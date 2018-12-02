@@ -117,5 +117,11 @@ Longest Palindromic Substring</a></td>
       <td>Java</td>
       <td>Hard</td>
     </tr>
+    <tr>
+      <td>402</td>
+      <td><a href="https://leetcode.com/problems/remove-k-digits/description/" rel="nofollow">Remove K Digits</a></td>
+      <td>Java</td>
+      <td>Medium</td>
+    </tr>
   </tbody>
 </table>
