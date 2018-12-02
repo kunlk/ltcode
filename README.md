@@ -96,7 +96,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>151</td>
       <td><a href="https://leetcode.com/problems/reverse-words-in-a-string/description/" rel="nofollow">Reverse Words in a String</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/SQL/Combine%20Two%20Tables">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Reverse%20Words%20in%20a%20String/reverseWords.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
