@@ -130,6 +130,12 @@ Longest Palindromic Substring</a></td>
       <td>Hard</td>
     </tr>
     <tr>
+      <td>348</td>
+      <td><a href="https://leetcode.com/problems/design-tic-tac-toe/description/" rel="nofollow">Design Tic-Tac-Toe</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Remove%20K%20Digits/removeKdigits.java">Java</a></td>
+      <td>Medium</td>
+    </tr>
+    <tr>
       <td>402</td>
       <td><a href="https://leetcode.com/problems/remove-k-digits/description/" rel="nofollow">Remove K Digits</a></td>
       <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Remove%20K%20Digits/removeKdigits.java">Java</a></td>
