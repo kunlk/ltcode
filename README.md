@@ -102,7 +102,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>165</td>
       <td><a href="https://leetcode.com/problems/compare-version-numbers/description/" rel="nofollow">Compare Version Numbers</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Reverse%20Words%20in%20a%20String/reverseWords.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Compare%20Version%20Numbers/compareVersion.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
