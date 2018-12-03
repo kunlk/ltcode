@@ -126,7 +126,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>253</td>
       <td><a href="https://leetcode.com/problems/meeting-rooms-ii/description/" rel="nofollow">Meeting Rooms II</a></td>
-      <td>Java</td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Meeting%20Rooms%20II/minMeetingRooms.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
