@@ -150,7 +150,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>692</td>
       <td><a href="https://leetcode.com/problems/top-k-frequent-words/description/" rel="nofollow">Top K Frequent Words</a></td>
-      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Design%20Tic-Tac-Toe/TicTacToe.java">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Top%20K%20Frequent%20Words/topKFrequent.java">Java</a></td>
       <td>Medium</td>
     </tr>
   </tbody>
