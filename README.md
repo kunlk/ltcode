@@ -126,7 +126,7 @@ Longest Palindromic Substring</a></td>
     <tr>
       <td>215</td>
       <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/description/" rel="nofollow">Kth Largest Element in an Array</a></td>
-      <td><a href="">Java</a></td>
+      <td><a href="https://github.com/kunlk/ltcode/blob/master/java/src/Kth%20Largest%20Element%20in%20an%20Array/findKthLargest.java">Java</a></td>
       <td>Medium</td>
     </tr>
     <tr>
